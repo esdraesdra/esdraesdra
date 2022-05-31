@@ -12,9 +12,18 @@
 -  **Aprendendo/Learning :** GameDev 🎮 // C++ 💻 // HTML & CSS 📄 
 -  **Hobbies :** Games & watch movies/series/animes & read & art 🎨
 
+**- linguagens/languages**
+
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-f0781d?style=flat-square&logo=html5&logoColor=white)](html5)
 [![CSS Badge](https://img.shields.io/badge/-CSS-4287f5?style=flat-square&logo=css3&logoColor=white)](css)
 [![GML Badge](https://img.shields.io/badge/-Game_Maker_Studio_2-198c29?style=flat-square&logo=gamemakerstudio2&logoColor=white)](html5)
+
+**- design**
+
+[![illustrator Badge](https://img.shields.io/badge/-Adobe_Illustrator-4287f5?style=flat-square&logo=adobeillustrator&logoColor=white)](html5)
+[![illustrator Badge](https://img.shields.io/badge/-Adobe_Photoshop-f0781d?style=flat-square&logo=adobephotoshop&logoColor=white)](html5)
+[![illustrator Badge](https://img.shields.io/badge/-Adobe_After_Effects-4a2399?style=flat-square&logo=adobeaftereffects&logoColor=white)](html5)
+[![illustrator Badge](https://img.shields.io/badge/-Adobe_Premiere-4a2399?style=flat-square&logo=adobepremierepro&logoColor=white)](html5)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### testes
 <div align="center">

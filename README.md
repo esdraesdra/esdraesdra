@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sobre/About
 -  **Aprendendo/Learning :** GameDev 🎮 // C++ 💻 // HTML & CSS 📄 
--  **Hobbies :** Games & watch movies/series/animes & read
+-  **Hobbies :** Games & watch movies/series/animes & read & art 🎨
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-f0781d?style=flat-square&logo=html5&logoColor=white)](html5)
 [![CSS Badge](https://img.shields.io/badge/-CSS-4287f5?style=flat-square&logo=css3&logoColor=white)](css)

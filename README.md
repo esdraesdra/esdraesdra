@@ -1,5 +1,5 @@
 ### ✨ esdra_esdra ✨
-<p align="center"><img src="https://media.giphy.com/media/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="200px"> <img src="https://media.giphy.com/media/0N6Lssa9EzE0fRuu71/giphy.gif" width="355px"> <img src="https://media.giphy.com/media/PaY9gIfoRwS9Q3DT7u/giphy-downsized-large.gif" width="355px"></p>
+<p align="center"><img src="https://media.giphy.com/media/PaY9gIfoRwS9Q3DT7u/giphy-downsized-large.gif" width="355px"></p>
 
 [![Twitter Badge](https://img.shields.io/badge/-esdra_esdra-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/esdra_esdra)](https://twitter.com/esdra_esdra)
 [![Linkedin Badge](https://img.shields.io/badge/-esdra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/esdras-alves/)](https://linkedin.com/in/esdras-alves/)

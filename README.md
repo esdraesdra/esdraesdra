@@ -7,10 +7,7 @@
 [![Behance Badge](https://img.shields.io/badge/-esdras-1ca0f1?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/esdras)](https://www.behance.net/esdras)
 [![Instagram Badge](https://img.shields.io/badge/-esdra_esdra-e82a3a?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/esdra_esdra/)](https://www.instagram.com/esdra_esdra/)
  <img src="https://komarev.com/ghpvc/?username=esdraesdra" alt="raghav-byte" />
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Sobre/About
--  **Aprendendo/Learning :** GameDev 🎮 // C++ 💻 // HTML & CSS 📄 
--  **Hobbies :** Games & watch movies/series/animes & read & art 🎨
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **- linguagens/languages**
 
